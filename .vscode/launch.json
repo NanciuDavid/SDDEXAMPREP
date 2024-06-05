@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/nanci/OneDrive/Desktop/SDDEXAMPREP/angajat/Solutie",
-      "program": "c:/Users/nanci/OneDrive/Desktop/SDDEXAMPREP/angajat/Solutie/build/Debug/outDebug",
+      "cwd": "c:/Users/nanci/OneDrive/Desktop/SDDEXAMPREP/2024/Bilet03",
+      "program": "c:/Users/nanci/OneDrive/Desktop/SDDEXAMPREP/2024/Bilet03/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
