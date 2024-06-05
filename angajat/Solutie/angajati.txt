@@ -1,0 +1,9 @@
+1 John Doe Strada1 25 3000
+1 Jane Doe Strada2 28 3500
+2 Alice Johnson Strada3 30 4000
+2 Bob Smith Strada4 32 3200
+3 Carol Williams Strada5 27 2800
+3 Dave Brown Strada6 35 2700
+1 Eve Davis Strada7 40 5000
+2 Frank Miller Strada8 45 4500
+3 Grace Wilson Strada9 29 2900
